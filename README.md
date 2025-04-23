@@ -1,12 +1,4 @@
-<h1 align="center">
-  <br>
-   <a ><img src="https://user-images.githubusercontent.com/62745858/229376399-edede393-f1e7-4e91-8c68-d76510ece76f.png" width="100"></a><br>
-   React Native Chat App
-   
-   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-</h1>
+
 
 <p align="center">
   <a href="#ℹ%EF%B8%8F-introduction">Introduction</a> •
@@ -155,18 +147,3 @@ This software uses the following packages:
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
 - [react-native-emoji-modal](https://github.com/staltz/react-native-emoji-modal)
 
-
-## ©License
-![GitHub](https://img.shields.io/github/license/Ctere1/react-native-chat)
-
-[LICENSE](./LICENSE)
-
-
-
-## 📌Contributors
-
-![Alt](https://repobeats.axiom.co/api/embed/0d9c40f20e57bc518a7e1419e18f6b6cfa57873d.svg "Repobeats analytics image")
-
-<a href="https://github.com/Ctere1/react-native-chat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ctere1/react-native-chat" />
-</a>
