@@ -33,7 +33,7 @@ https://github.com/Ctere1/react-native-chat/assets/62745858/bcde4aa0-d2f2-4d8c-8
  
  ```bash
  # Clone this repository
- $ git clone https://github.com/Ctere1/react-native-chat
+ $ git clone https://github.com/MDR09/chat-react--app
  # Go into the repository
  $ cd react-native-chat
  # Install dependencies
