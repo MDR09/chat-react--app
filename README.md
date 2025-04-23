@@ -1,24 +1,5 @@
 
 
-<p align="center">
-  <a href="#ℹ%EF%B8%8F-introduction">Introduction</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation-guide">Installation Guide</a> •
-  <a href="#%EF%B8%8Fbuilding-guide">Building Guide</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a> •
-  <a href="#contributors">Contributors</a> 
-</p>
-
-<div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Ctere1/react-native-chat?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ctere1/react-native-chat?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Ctere1/react-native-chat?style=social)
-
-</div>
-
 ## ℹ️ Introduction
 
 Real Time Chat Application that written in [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/) platform.
